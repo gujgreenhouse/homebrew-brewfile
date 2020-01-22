@@ -12,6 +12,6 @@ Git ist zu diesem Zeitpunkt nicht installiert, deswegen tut man das jetzt über 
 
 4. Nach dem Herunterladen den folgenden Befehl ausführen für die automatische Installation aller Software:
 
-`./development-environment-for-mac-os/install.sh`
+`./homebrew-brewfile/install.sh`
 
 Dazu sind Administrator-Rechte auf dem neuen Mac notwendig.
