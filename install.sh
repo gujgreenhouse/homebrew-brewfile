@@ -6,6 +6,5 @@
 # install via brew
 brew bundle --file=./Brewfile
 
-# unquarantine the downloaded apps
-sudo xattr -dr com.apple.quarantine /Applications/Google\ Chrome.app
-open /Applications/Google\ Chrome.app
+# because no OFFICIAL cask is available
+brew cask install https://www.corecode.io/macupdater/casks/citrix-workspace.rb
