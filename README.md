@@ -6,11 +6,13 @@
 `git --version`
 Git ist zu diesem Zeitpunkt nicht installiert, deswegen tut man das jetzt über den Dialog.
 
-3. Nach der Installation von Git kann man die Standard-Systemkonfiguration herunterladen:
+3. Im AppStore auf dem Mac muss man sich mit `info@greenhouse.media` anmelden. Dazu wird unser 2FA-Gerät benötigt.
+
+4. Nach der Installation von Git kann man die Standard-Systemkonfiguration herunterladen:
 
 `git clone https://github.com/gujgreenhouse/homebrew-brewfile.git`
 
-4. Nach dem Herunterladen den folgenden Befehl ausführen für die automatische Installation aller Software:
+5. Nach dem Herunterladen den folgenden Befehl ausführen für die automatische Installation aller Software:
 
 `./homebrew-brewfile/install.sh`
 
